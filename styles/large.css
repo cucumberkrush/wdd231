@@ -1,0 +1,17 @@
+/* Horizontal nav (desktop) */
+@media (min-width: 768px) {
+  #menu-button {
+    display: none;
+  }
+  #primary-nav {
+    display: flex;
+    gap: 1rem;
+  }
+}
+
+/* Wayfinding */
+.active {
+  font-weight: bold;
+  color: #2c3e50;
+  border-bottom: 2px solid #2c3e50;
+}
