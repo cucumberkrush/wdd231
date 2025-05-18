@@ -5,15 +5,15 @@ document.addEventListener('DOMContentLoaded', function() {
         { code: "WDD 231", name: "Web Frontend Development II", credits: 3, completed: false },
         { code: "CSE 121B", name: "JavaScript Language", credits: 3, completed: true },
         { code: "CSE 111", name: "Programming with Functions", credits: 3, completed: false }
-        // Add more courses as needed
     ];
 
-    const container = document.getElementById('courses-container');
+    // CORRECTED: Using the IDs from your HTML
+    const container = document.getElementById('course-list');
     const totalCredits = document.getElementById('total-credits');
-    const filters = document.querySelectorAll('.filter');
+    const filters = document.querySelectorAll('#course-filters button');
 
     function displayCourses(coursesToShow) {
-        container.innerHTML = '';
+        container.innerHTML = ''; // This was failing before
         let credits = 0;
 
         coursesToShow.forEach(course => {
