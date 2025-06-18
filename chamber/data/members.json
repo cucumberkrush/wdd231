@@ -6,55 +6,55 @@
       "phone": "+234 806 123 4567",
       "url": "https://facebook.com/jendolsupermarket",
       "image": "supermarket.jpg",
-      "membership": "gold"
+      "membershipLevel": "gold"
     },
     {
-      "name": "Autocare",
+      "name": "Autocare Services",
       "address": "22 Idiroko Road, Beside NNPC Station, Sango-Ota",
       "phone": "+234 805 555 1234",
       "url": "https://maps.app.goo.gl/XYZ789",
       "image": "autocare.jpg",
-      "membership": "silver"
+      "membershipLevel": "silver"
     },
     {
-      "name": "Pharmacy",
+      "name": "Ota City Pharmacy",
       "address": "14 Oju-Ore Road, Opposite LASPOTECH, Ota",
       "phone": "+234 803 333 4567",
       "url": "",
       "image": "pharmacy.jpg",
-      "membership": "non-profit"
+      "membershipLevel": "non-profit"
     },
     {
-      "name": " Salon",
+      "name": "Glo Beauty Salon",
       "address": "8 Ijana Road, Near Christ Embassy, Ota",
       "phone": "+234 802 222 6789",
       "url": "https://instagram.com/glowbeautyng",
       "image": "salon.jpg",
-      "membership": "silver"
+      "membershipLevel": "silver"
     },
     {
-      "name": "Electronics",
+      "name": "TechHub Electronics",
       "address": "5 Oke-Odo Road, Close to Ota Market",
       "phone": "+234 807 777 8910",
       "url": "https://techhubng.com",
       "image": "electronics.jpg",
-      "membership": "gold"
+      "membershipLevel": "gold"
     },
     {
-      "name": " Water",
+      "name": "AquaPure Water",
       "address": "3 Ilo-Awela Road, Behind Fire Station, Ota",
       "phone": "+234 809 888 1234",
       "url": "",
       "image": "water.jpg",
-      "membership": "non-profit"
+      "membershipLevel": "non-profit"
     },
     {
-      "name": "spice Restaurant",
+      "name": "Spice Delight Restaurant",
       "address": "10 Owode Road, Opposite Ota High School",
       "phone": "+234 804 444 5678",
       "url": "https://facebook.com/spicedelight",
       "image": "restaurant.jpg",
-      "membership": "gold"
+      "membershipLevel": "gold"
     }
   ]
 }
