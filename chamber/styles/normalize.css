@@ -1,8 +1,0 @@
-html {
-  scroll-behavior: smooth;
-}
-
-/* Remove focus outline for mouse users */
-[data-whatinput="mouse"] :focus {
-  outline: none;
-}
